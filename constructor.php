@@ -1,7 +1,4 @@
 <?php
-
-use Produk as GlobalProduk;
-
 /** 
  * Riksa Kusumah Nagara
  * 193040078
