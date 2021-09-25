@@ -25,7 +25,7 @@ Class Produk {
     }
 
     public function getInfoProduk() {
-        $str = "{$this->tipe} : {$this->judul} | {$this->getLabel()} (Rp. {$this->harga}) ";
+        $str = "{$this->judul} | {$this->getLabel()} (Rp. {$this->harga}) ";
 
         return $str;
     }
